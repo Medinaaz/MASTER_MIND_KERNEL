@@ -1,6 +1,6 @@
-Mehmet Yakuphan Bilgic
-Medina Zaganjori
-Sabrina Cara
+Mehmet Yakuphan Bilgic https://github.com/yakuphanbilgic
+Medina Zaganjori https://github.com/Medinaaz
+Sabrina Cara  https://github.com/Sabrinacara98
 
 In this homework we have implemented Mastermind game using device drivers. 
 
